@@ -19,7 +19,7 @@ Here are some ideas to get you started:
      <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" style="max-width:60%" align="right">
      </div>
      <div>
-          <BR><BR>
+          <BR>
           <p>🌱I’m currently learning Flutter.</p>
           <p>👯I’m looking for Internship/Freelancing Opportunities.</p>
           <p>💬Ask me about Flutter OR Dart.</p>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
           </a>
      </div>
-<BR><BR>     
+<BR><BR><BR>     
 </section>
 <h3 align="left">Some of my Projects:</h3>
      <table>
