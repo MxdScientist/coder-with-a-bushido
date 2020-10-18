@@ -21,8 +21,15 @@ Here are some ideas to get you started:
           <p>💬Ask me about Flutter OR Dart.</p>
           <p>❤️In Love with : Flutter & Dart</p>
           <p>📫How to reach me.</p>
-        
-     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/coder-with-a-bushido)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/karthikeyanssvk/)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_KarthikeyanS_)
+          <a href="https://github.com/coder-with-a-bushido">
+          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'  alt='github' height='40'>
+          </a>
+          <a href="https://www.linkedin.com/in/karthikeyanssvk/">
+          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+          </a>
+          <a href="https://twitter.com/_KarthikeyanS_">
+          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
+          </a>
      </div>
      <div>
 <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
