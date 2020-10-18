@@ -19,6 +19,7 @@ Here are some ideas to get you started:
      <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" style="max-width:60%" align="right">
      </div>
      <div>
+          <BR><BR>
           <p>🌱I’m currently learning Flutter.</p>
           <p>👯I’m looking for Internship/Freelancing Opportunities.</p>
           <p>💬Ask me about Flutter OR Dart.</p>
@@ -34,13 +35,19 @@ Here are some ideas to get you started:
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
           </a>
      </div>
-     
+<BR><BR>     
 </section>
 <h3 align="left">Some of my Projects:</h3>
- 
-| [action_process_text Flutter Plugin](https://github.com/coder-with-a-bushido/ACTION_PROCESS_TEXT-Flutter) | Slangonary |
-|----------------------------------------------------------------|------------|
-| <img src="https://imgur.com/2sikhjG.gif" height=444 width=250> |            |
+     <table>
+          <tr>
+               <th><a href="https://github.com/coder-with-a-bushido/ACTION_PROCESS_TEXT-Flutter">action_process_text Flutter Plugin</a></th>
+               <th>Slangonary</th>
+          </tr>
+          <tr>
+               <td><img src="https://imgur.com/2sikhjG.gif" height=444 width=250></td>
+               <td></td>
+          </tr>
+     </table>
 
 
 <h3 align="left">My Recent Article:</h3>
