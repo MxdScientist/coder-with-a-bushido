@@ -23,6 +23,16 @@ Here are some ideas to get you started:
 
      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/coder-with-a-bushido)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/karthikeyanssvk/)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_KarthikeyanS_)
 
+<h3 align="left">Some of my Projects:</h3>
+ 
+| [action_process_text Flutter Plugin](https://github.com/coder-with-a-bushido/ACTION_PROCESS_TEXT-Flutter)                             | Slangonary |
+|----------------------------------------------------------------|------------|
+| <img src="https://imgur.com/2sikhjG.gif" height=444 width=250> |            |
+
+
+<h3 align="left">My Recent Article:</h3>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@coder_with_a_bushido/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@coder_with_a_bushido/0" alt="Recent Article 0"> 
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
