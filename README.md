@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <section>
      <div>
-     <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" style="max-width:80%" align="right">
+     <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" style="max-width:60%" align="right">
      </div>
      <div>
           <p>🌱I’m currently learning Flutter.</p>
