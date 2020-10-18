@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 -->
 ## Hello, I'm Karthikeyan S! :wave:     <img src="https://komarev.com/ghpvc/?username=coder-with-a-bushido&label=Profile%20views&color=0e75b6&style=flat" alt="coder-with-a-bushido" /> </p>
 
-<section style="display:flex; justify-content:space-around;">
+<section>
+     <div>
+     <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" style="max-width:80%" align="right">
+     </div>
      <div>
           <p>🌱I’m currently learning Flutter.</p>
           <p>👯I’m looking for Internship/Freelancing Opportunities.</p>
@@ -31,9 +34,7 @@ Here are some ideas to get you started:
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
           </a>
      </div>
-     <div>
-     <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" style="max-width:80%" align="right">
-     </div>
+     
 </section>
 <h3 align="left">Some of my Projects:</h3>
  
