@@ -14,18 +14,20 @@ Here are some ideas to get you started:
 -->
 ## Hello, I'm Karthikeyan S!! :wave:     <img src="https://komarev.com/ghpvc/?username=coder-with-a-bushido&label=Profile%20views&color=0e75b6&style=flat" alt="coder-with-a-bushido" /> </p>
 
-
-- :seedling: I’m currently learning Flutter.
-- 👯 I’m looking for Internship/Freelancing Opportunities .
-- :speech_balloon: Ask me about Flutter OR Dart.
-- :heart: In Love with : Flutter & Dart
-
-- :mailbox: How to reach me: 
-
+<section>
+     <div>
+          <p>🌱I’m currently learning Flutter.</p>
+          <p>👯I’m looking for Internship/Freelancing Opportunities.</p>
+          <p>💬Ask me about Flutter OR Dart.</p>
+          <p>❤️In Love with : Flutter & Dart</p>
+          <p>📫How to reach me.</p>
+        
      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/coder-with-a-bushido)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/karthikeyanssvk/)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_KarthikeyanS_)
-     
+     </div>
+     <div>
 <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
-
+     </div>
+</section>
 <h3 align="left">Some of my Projects:</h3>
  
 | [action_process_text Flutter Plugin](https://github.com/coder-with-a-bushido/ACTION_PROCESS_TEXT-Flutter)                             | Slangonary |
