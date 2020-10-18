@@ -19,16 +19,19 @@ Here are some ideas to get you started:
 - 👯 I’m looking for Internship/Freelancing Opportunities .
 - :speech_balloon: Ask me about Flutter OR Dart.
 - :heart: In Love with : Flutter & Dart
+
 - :mailbox: How to reach me: 
 
      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/coder-with-a-bushido)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/karthikeyanssvk/)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_KarthikeyanS_)
-
+     
+<img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
+<!--
 <h3 align="left">Some of my Projects:</h3>
  
 | [action_process_text Flutter Plugin](https://github.com/coder-with-a-bushido/ACTION_PROCESS_TEXT-Flutter)                             | Slangonary |
 |----------------------------------------------------------------|------------|
 | <img src="https://imgur.com/2sikhjG.gif" height=444 width=250> |            |
-
+-->
 
 <h3 align="left">My Recent Article:</h3>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@coder_with_a_bushido/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@coder_with_a_bushido/0" alt="Recent Article 0"> 
