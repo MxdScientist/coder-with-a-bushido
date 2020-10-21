@@ -46,7 +46,7 @@ Here are some ideas to get you started:
           </tr>
           <tr>
                <td><img src="https://imgur.com/2sikhjG.gif" height=444 width=250></td>
-               <td><img src="https://imgur.com/VKEaX6L.gif" height=444 width=250></td>
+               <td><img src="https://imgur.com/YE11D6O.gif"></td>
           </tr>
      </table>
 
