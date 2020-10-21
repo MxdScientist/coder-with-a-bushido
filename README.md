@@ -3,6 +3,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 -  I’m looking to collaborate on ...
@@ -45,7 +46,7 @@ Here are some ideas to get you started:
           </tr>
           <tr>
                <td><img src="https://imgur.com/2sikhjG.gif" height=444 width=250></td>
-               <td></td>
+               <td><img src="https://imgur.com/VKEaX6L.gif" height=444 width=250></td>
           </tr>
      </table>
 
