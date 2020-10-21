@@ -42,7 +42,7 @@ Here are some ideas to get you started:
      <table>
           <tr>
                <th><a href="https://github.com/coder-with-a-bushido/ACTION_PROCESS_TEXT-Flutter">action_process_text Flutter Plugin</a></th>
-               <th><a href="https://github.com/coder-with-a-bushido/slangonary">Slangonary</th>
+               <th><a href="https://github.com/coder-with-a-bushido/slangonary">Slangonary (App)</th>
           </tr>
           <tr>
                <td><img src="https://imgur.com/2sikhjG.gif" height=444 width=250></td>
